@@ -1,7 +1,16 @@
 ### Hi there <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">, I am Safdar imam
 
+
+
+
+hey 👋 This is Safdar...
+
+I am a highly motivated and experienced front-end developer with a passion for creating user-friendly and visually appealing websites and web applications. 
+I have a strong understanding of HTML, CSS, and JavaScript, as well as experience with a variety of front-end frameworks and libraries.
 <!--
 **Safdarimam786/safdarimam786** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+
+
 
 Here are some ideas to get you started:
 
