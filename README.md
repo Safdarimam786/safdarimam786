@@ -1,4 +1,4 @@
-### Hi there <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">, I am Safdar imam
+### Hi there <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px"> , I am Safdar imam
 
 
 I am a highly motivated and experienced front-end developer with a passion for creating user-friendly and visually appealing websites and web applications. 
