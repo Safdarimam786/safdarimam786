@@ -18,6 +18,16 @@ I have a strong understanding of HTML, CSS, and JavaScript, as well as experienc
   <img src="https://img.shields.io/badge/-Canva-B1F1B2?logo=canva&logoColor=4942E4&style=for-the-badge&logoWidth=40" alt="Canva">
   <img src="https://img.shields.io/badge/-Figma-26466F?logo=Figma&logoColor=FF8585&style=for-the-badge&logoWidth=40" alt="Figma">
 </div>
+
+## 🔥 GitHub stats:
+
+<!-- GitHub Readme Streak Stats -->
+
+<p align="center">
+  <a href="https://github.com/safdarimam786">
+    <img title="GitHub Stats" alt="Safdar's streak" src="https://streak-stats.demolab.com/?user=safdarimam786&layout=compact&theme=react&hide_border=true&bg_color=1F222E&title_color=F85D7F&icon_color=F8D866"/>
+  </a>
+</p>
 <!--
 **Safdarimam786/safdarimam786** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
