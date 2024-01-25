@@ -1,4 +1,5 @@
-### Hi there <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px"> , I am Safdar imam
+### Hi there <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px"> , I am Safdar imam <p align="center">
+ 
 
 
 I am a highly motivated and experienced front-end developer with a passion for creating user-friendly and visually appealing websites and web applications. 
@@ -6,6 +7,14 @@ I have a strong understanding of HTML, CSS, and JavaScript, as well as experienc
 
 
 ## 💻 Skills
+
+<p align="center">
+  <a href="https://github.com/safdarimam786/readme-typing-svg"><img src="https://readme-typing-svg.demolab.com/?lines=Web%20Developer!;1.5%2B%20years%20of%20Coding%20Experience!%20;Always%20learning%20new%20things!%20&font=Fira%20Code&center=true&width=440&height=45&color=f75c7e&vCenter=true&size=22&pause=1000"></a>
+  <link rel="stylesheet" href="https://cdn.jsdelivr.net/gh/devicons/devicon@v2.15.1/devicon.min.css">
+          
+</p>
+
+
 <div align="center">
   <img src="https://img.shields.io/badge/-HTML5-2B3499?logo=html5&logoColor=E34F26&style=for-the-badge&logoWidth=30" alt="HTML5">
   <img src="https://img.shields.io/badge/-CSS3-FE7A36?logo=css3&logoColor=1572B6&style=for-the-badge&logoWidth=30" alt="CSS3">
@@ -39,6 +48,8 @@ I have a strong understanding of HTML, CSS, and JavaScript, as well as experienc
 
 
 [![Sarvesh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=safdarimam786&bg_color=1F222E&color=F8D866&line=F85D7F&point=FFFFFF&area=true&hide_border=true)](https://github.com/safdarimam786/github-readme-activity-graph)
+
+
 
 <!--
 **Safdarimam786/safdarimam786** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
