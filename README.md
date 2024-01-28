@@ -1,9 +1,20 @@
 ### Hi there <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px"> , I am Safdar imam <p align="center">
- 
+
+ * 🌍  I'm based in Ghaziabad, India 
+* 🖥️  See my portfolio at [safdarimam786.blogspot.com](safdarimam786.blogspot.com)
+* ✉️  You can contact me at [safdarimam486@gmail.com ](safdarimam486@gmail.com)
+* 🚀  I'm currently working on [safdarimam786.blogspot.com](safdarimam786.blogspot.com)
+* 🧠  I'm learning JavaScript
+* 🤝  I'm open to collaborating on exciting projects as a frontend developer, designer or dev rel.
 
 
-I am a highly motivated and experienced front-end developer with a passion for creating user-friendly and visually appealing websites and web applications. 
-I have a strong understanding of HTML, CSS, and JavaScript, as well as experience with a variety of front-end frameworks and libraries.
+
+
+## Connect with me!
+<p align="left">
+<a href="https://www.linkedin.com/in/safdarimam" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="32" height="32" /></a>
+<a href="https://www.github.com/safdarimam786" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" width="32" height="32" /></a>
+<a href="https://www.twitter.com/safdarimam0" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/twitter.svg" width="32" height="32" /></a></p>
 
 
 ## 💻 Skills
