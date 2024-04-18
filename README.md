@@ -32,20 +32,36 @@
 </p>
 
 
-<div align="center">
-  <img src="https://img.shields.io/badge/-HTML5-2B3499?logo=html5&logoColor=E34F26&style=for-the-badge&logoWidth=30" alt="HTML5">
-  <img src="https://img.shields.io/badge/-CSS3-FE7A36?logo=css3&logoColor=1572B6&style=for-the-badge&logoWidth=30" alt="CSS3">
-  <img src="https://img.shields.io/badge/-JavaScript-05128B?logo=javascript&logoColor=F7DF1E&style=for-the-badge&logoWidth=30" alt="Javascript">
-  <img src="https://img.shields.io/badge/-React-000000?logo=react&logoColor=61DAFB&style=for-the-badge&logoWidth=30" alt="React">
-  
-  <br>
-  <img src="https://img.shields.io/badge/-GitHub-000000?logo=github&logoColor=4942E4&style=for-the-badge&logoWidth=30" alt="GitHub">
-  <img src="https://img.shields.io/badge/-Visual Studio Code-D04848?logo=visualstudiocode&logoColor=4942E4&style=for-the-badge&logoWidth=30" alt="Visual Studio Code">
-  <img src="https://img.shields.io/badge/-Canva-B1F1B2?logo=canva&logoColor=4942E4&style=for-the-badge&logoWidth=40" alt="Canva">
-  <img src="https://img.shields.io/badge/-Figma-26466F?logo=Figma&logoColor=FF8585&style=for-the-badge&logoWidth=40" alt="Figma">
-</div>
 
-## 🔥 GitHub stats:
+
+<table align="center">
+
+  
+
+  <tr>
+    <td align="center"><img height='30' src="https://skillicons.dev/icons?i=materialui" alt="material logo"><br><sub><sup>Material UI</td>
+    <td align="center"><img height='30' src="https://skillicons.dev/icons?i=tailwind" alt="tailwind logo"><br><sub><sup>Tailwind CSS</td>
+    <td align="center"><img height='30' src="https://cdn.simpleicons.org/bootstrap/7952B3" alt="bootstrap logo" ><br><sub><sup>Bootstrap</td>
+  </tr>
+  
+
+  <tr>
+    <td align="center"><img height='30' src="https://skillicons.dev/icons?i=html" alt="html5 logo" ><br><sub><sup>HTML5</td>
+    <td align="center"><img height='30' src="https://skillicons.dev/icons?i=css" alt="css3 logo" ><br><sub><sup>CSS3</td>
+    <td align="center"><img height='30' src="https://skillicons.dev/icons?i=js" alt="javascript logo" ><br><sub><sup>JavaScript</td>
+  </tr>
+  <tr>
+     <td align="center"><img height='30' src="https://skillicons.dev/icons?i=figma" alt="figma logo" ><br><sub><sup>Figma</td>
+     <td align="center"><img height='30' src="https://skillicons.dev/icons?i=github" alt="github logo" ><br><sub><sup>GitHub</td>
+         <td align="center"><img height='30' src="https://skillicons.dev/icons?i=visualstudio" alt="visualstudio logo" ><br><sub><sup>Visual Studio</td>
+
+  
+  </tr>
+
+
+</table>
+
+## 🔥 GitHub stats: <img align="right" src="https://img.shields.io/github/stars/safdarimam786?label=Stars&style=social" alt="GitHub Badge">
 
 <!-- GitHub Readme Streak Stats -->
 
