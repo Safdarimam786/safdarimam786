@@ -61,7 +61,9 @@
 
 </table>
 
+
 ## 🔥 GitHub stats: <img align="right" src="https://img.shields.io/github/stars/safdarimam786?label=Stars&style=social" alt="GitHub Badge">
+
 
 <!-- GitHub Readme Streak Stats -->
 
@@ -78,6 +80,9 @@
   <br/>
 
 </p>
+
+## 🏆 GitHub Trophies
+![](https://github-profile-trophy.vercel.app/?username=safdarimam786&theme=radical&no-frame=false&no-bg=true&margin-w=4)
 
 
 [![Sarvesh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=safdarimam786&bg_color=1F222E&color=F8D866&line=F85D7F&point=FFFFFF&area=true&hide_border=true)](https://github.com/safdarimam786/github-readme-activity-graph)
