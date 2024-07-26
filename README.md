@@ -53,7 +53,7 @@
   <tr>
      <td align="center"><img height='30' src="https://skillicons.dev/icons?i=figma" alt="figma logo" ><br><sub><sup>Figma</td>
      <td align="center"><img height='30' src="https://skillicons.dev/icons?i=github" alt="github logo" ><br><sub><sup>GitHub</td>
-         <td align="center"><img height='30' src="https://skillicons.dev/icons?i=visualstudio" alt="visualstudio logo" ><br><sub><sup>Visual Studio</td>
+         <td align="center"><img height='30' src="https://skillicons.dev/icons?i=jquery" alt="jquery logo" ><br><sub><sup>Jquery</sup></td>
 
   
   </tr>
