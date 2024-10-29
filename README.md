@@ -84,15 +84,15 @@
 </p>
 
 ## 🏆 GitHub Trophies
-![](https://github-profile-trophy.vercel.app/?username=safdarimam786&theme=radical&no-frame=false&no-bg=true&margin-w=4)
+![](https://github-profile-trophy.vercel.app/?username=safdarimam110&theme=radical&no-frame=false&no-bg=true&margin-w=4)
 
 
-[![Sarvesh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=safdarimam786&bg_color=1F222E&color=F8D866&line=F85D7F&point=FFFFFF&area=true&hide_border=true)](https://github.com/safdarimam786/github-readme-activity-graph)
+[![Sarvesh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=safdarimam110&bg_color=1F222E&color=F8D866&line=F85D7F&point=FFFFFF&area=true&hide_border=true)](https://github.com/safdarimam110/github-readme-activity-graph)
 
 
 
 <!--
-**Safdarimam786/safdarimam786** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**Safdarimam110/safdarimam110** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 
 
