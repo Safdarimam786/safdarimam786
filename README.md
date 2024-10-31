@@ -69,14 +69,14 @@
 <!-- GitHub Readme Streak Stats -->
 
 <p align="center">
-  <a href="https://github.com/safdarimam110">
-    <img title="GitHub Stats" alt="Safdar's streak" src="https://streak-stats.demolab.com/?user=safdarimam110&layout=compact&theme=react&hide_border=true&bg_color=1F222E&title_color=F85D7F&icon_color=F8D866"/>
+  <a href="https://github.com/safdarimam786">
+    <img title="GitHub Stats" alt="Safdar's streak" src="https://streak-stats.demolab.com/?user=safdarimam786&layout=compact&theme=react&hide_border=true&bg_color=1F222E&title_color=F85D7F&icon_color=F8D866"/>
   </a>
 </p>
 
 <p align="center">
-  <a href="https://github.com/safdarimam110"><img alt="Safdar's Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=safdarimam110&layout=compact&theme=react&hide_border=true&bg_color=1F222E&title_color=F85D7F&icon_color=F8D866&hide=HTML,Jupyter%20Notebook" height="192px"/></a>  <br> <br/>
-    <a href="https://github.com/safdarimam110"><img alt="Safdar's Github Stats" src="https://github-readme-stats.vercel.app/api?username=safdarimam110&show_icons=true&include_all_commits=true&count_private=true&theme=react&hide_border=true&bg_color=1F222E&title_color=F85D7F&rank_icon=github&icon_color=F8D866" height="192px"/></a>
+  <a href="https://github.com/safdarimam786"><img alt="Safdar's Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=safdarimam786&layout=compact&theme=react&hide_border=true&bg_color=1F222E&title_color=F85D7F&icon_color=F8D866&hide=HTML,Jupyter%20Notebook" height="192px"/></a>  <br> <br/>
+    <a href="https://github.com/safdarimam786"><img alt="Safdar's Github Stats" src="https://github-readme-stats.vercel.app/api?username=safdarimam786&show_icons=true&include_all_commits=true&count_private=true&theme=react&hide_border=true&bg_color=1F222E&title_color=F85D7F&rank_icon=github&icon_color=F8D866" height="192px"/></a>
 
 
   <br/>
@@ -84,7 +84,7 @@
 </p>
 
 ## 🏆 GitHub Trophies
-![](https://github-profile-trophy.vercel.app/?username=safdarimam110&theme=radical&no-frame=false&no-bg=true&margin-w=4)
+![](https://github-profile-trophy.vercel.app/?username=safdarimam786&theme=radical&no-frame=false&no-bg=true&margin-w=4)
 
 
 <!--[![Sarvesh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=safdarimam110&bg_color=1F222E&color=F8D866&line=F85D7F&point=FFFFFF&area=true&hide_border=true)](https://github.com/safdarimam110/github-readme-activity-graph)
