@@ -63,7 +63,7 @@
 </table>
 
 
-## 🔥 GitHub stats: <img align="right" src="https://img.shields.io/github/stars/safdarimam110?label=Stars&style=social" alt="GitHub Badge">
+## 🔥 GitHub stats: <img align="right" src="https://img.shields.io/github/stars/safdarimam786?label=Stars&style=social" alt="GitHub Badge">
 
 
 <!-- GitHub Readme Streak Stats -->
@@ -92,7 +92,7 @@
 
 
 <!--
-**Safdarimam110/safdarimam110** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**Safdarimam786/safdarimam786** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 
 
