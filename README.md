@@ -18,7 +18,7 @@
 <br>
 <p align="center">
 <a href="https://www.linkedin.com/in/safdar-imam-711826226" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="32" height="32" /></a> &nbsp
-<a href="https://www.github.com/safdarimam110" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" width="32" height="32" /></a> &nbsp
+<a href="https://www.github.com/safdarimam786" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" width="32" height="32" /></a> &nbsp
 <a href="https://www.instagram.com/safdar.dev/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/instagram.svg" width="32" height="32" /></a> &nbsp
 <a href="https://www.facebook.com/people/Safdar-imam/100064638343627/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/facebook.svg" width="32" height="32" /></a> &nbsp
 <a href="https://www.twitter.com/safdarimam0" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/twitter.svg" width="32" height="32" /></a></p> &nbsp
@@ -27,7 +27,7 @@
 ## 💻 Skills
 
 <p align="center">
-  <a href="https://github.com/safdarimam110/readme-typing-svg"><img src="https://readme-typing-svg.demolab.com/?lines=Web%20Developer!;1.5%2B%20years%20of%20Coding%20Experience!%20;Always%20learning%20new%20things!%20&font=Fira%20Code&center=true&width=440&height=45&color=f75c7e&vCenter=true&size=22&pause=1000"></a>
+  <a href="https://github.com/safdarimam786/readme-typing-svg"><img src="https://readme-typing-svg.demolab.com/?lines=Web%20Developer!;1.5%2B%20years%20of%20Coding%20Experience!%20;Always%20learning%20new%20things!%20&font=Fira%20Code&center=true&width=440&height=45&color=f75c7e&vCenter=true&size=22&pause=1000"></a>
   <link rel="stylesheet" href="https://cdn.jsdelivr.net/gh/devicons/devicon@v2.15.1/devicon.min.css">
           
 </p>
@@ -87,12 +87,12 @@
 ![](https://github-profile-trophy.vercel.app/?username=safdarimam786&theme=radical&no-frame=false&no-bg=true&margin-w=4)
 
 
-<!--[![Sarvesh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=safdarimam110&bg_color=1F222E&color=F8D866&line=F85D7F&point=FFFFFF&area=true&hide_border=true)](https://github.com/safdarimam110/github-readme-activity-graph)
+<!--[![Sarvesh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=safdarimam786&bg_color=1F222E&color=F8D866&line=F85D7F&point=FFFFFF&area=true&hide_border=true)](https://github.com/safdarimam110/github-readme-activity-graph)
 
 
 
 <!--
-**Safdarimam786/safdarimam786** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**safdarimam786/safdarimam786** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 
 
