@@ -82,7 +82,7 @@
   <br/>
 
 </p>
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=Safdarimam786&" alt="Safdarimam786" /></p>
+
 <!--## 🏆 GitHub Trophies
 ![](https://github-profile-trophy.vercel.app/?username=safdarimam786&theme=radical&no-frame=false&no-bg=true&margin-w=4)-->
 
