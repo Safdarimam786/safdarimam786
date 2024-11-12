@@ -66,7 +66,7 @@
 ## 🔥 GitHub stats: <img align="right" src="https://img.shields.io/github/stars/safdarimam786?label=Stars&style=social" alt="GitHub Badge">
 
 
-<!-- GitHub Readme Streak Stats -->
+GitHub Readme Streak Stats
 
 <!--<p align="center">
   <a href="https://github.com/safdarimam786">
