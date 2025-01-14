@@ -70,7 +70,7 @@
 
 
 <!--<p align="center">
-  <a href="https://github.com/safdarimam786">
+  <a href="[https://github.com/safdarimam786](https://github.com/safdarimam786)">
     <img title="GitHub Stats" alt="Safdar's streak" src="https://streak-stats.demolab.com/?user=safdarimam786&layout=compact&theme=react&hide_border=true&bg_color=1F222E&title_color=F85D7F&icon_color=F8D866"/>
   </a>
 </p> -->
@@ -88,7 +88,7 @@
 ![](https://github-profile-trophy.vercel.app/?username=safdarimam786&theme=radical&no-frame=false&no-bg=true&margin-w=4)-->
 
 
-<!--[![Sarvesh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=safdarimam786&bg_color=1F222E&color=F8D866&line=F85D7F&point=FFFFFF&area=true&hide_border=true)](https://github.com/safdarimam110/github-readme-activity-graph)
+<!--[![Sarvesh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=safdarimam786&bg_color=1F222E&color=F8D866&line=F85D7F&point=FFFFFF&area=true&hide_border=true)](https://github.com/safdarimam786/github-readme-activity-graph)
 
 
 
