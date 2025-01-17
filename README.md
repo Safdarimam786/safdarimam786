@@ -61,11 +61,7 @@
 
 
 </table>
-<div align="center">
-  <a href="https://github.com/safdarimam786/github-readme-streak-stats">
-    <img width="400" src="https://github-readme-streak-stats-eight.vercel.app/?user=safdarimam786&theme=merko" alt="GitHub Streak" />
-  </a>
-</div>
+
 
 
 ## 🔥 GitHub stats: <img align="right" src="https://img.shields.io/github/stars/safdarimam786?label=Stars&style=social" alt="GitHub Badge">
@@ -78,6 +74,12 @@
   <br/>
 
 </p>
+
+<div align="center">
+  <a href="https://github.com/safdarimam786/github-readme-streak-stats">
+    <img width="400" src="https://github-readme-streak-stats-eight.vercel.app/?user=safdarimam786&theme=merko" alt="GitHub Streak" />
+  </a>
+</div>
 
 
 
